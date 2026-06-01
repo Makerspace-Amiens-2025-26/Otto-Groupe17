@@ -10,7 +10,7 @@ Ce projet consiste en la création d'un robot bipède autonome basé sur le mod�
 
 ## Contexte du Projet
 
-Dans le cadre du MakerSpace, nous avons souhaité proposer un projet accessible qui combine mécanique, électronique et programmation. L'Otto Ninja permet de démystifier le fonctionnement d'un robot mobile en offrant une structure simple, robuste et facile à assembler.
+Dans le cadre du MakerSpace, nous avons souhaité proposer un projet accessible qui combine mécanique, électronique et programmation. L'Otto Ninja permet d'éclairer le fonctionnement d'un robot mobile en offrant une structure simple et facile à assembler.
 
 ## Objectifs du Projet
 
