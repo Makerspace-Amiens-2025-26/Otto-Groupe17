@@ -39,4 +39,4 @@ Le robot doit répondre aux contraintes suivantes :
 - Mobilité : Capacité à avancer, reculer et tourner.
 - Interaction : Détection d'obstacles via un capteur à ultrasons.
 - Autonomie : Alimentation par batterie intégrée au corps du robot.
-- Évolutivité : Code source ouvert sous licence permissive et structure CAO modifiable.
+- Évolutivité : Code source ouvert (sous licence) et structure CAO modifiable.
