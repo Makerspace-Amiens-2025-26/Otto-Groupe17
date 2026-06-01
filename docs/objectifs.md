@@ -24,7 +24,7 @@ Dans le cadre du MakerSpace, nous avons souhaité proposer un projet accessible 
 
 # Existant
 
-Le projet se base sur l'architecture open-source OttoDIY, reconnue pour sa fiabilité et sa simplicité.
+Le projet se base sur le modèle open-source OttoDIY, reconnu pour sa fiabilité et sa simplicité.
 
 Pour cette version "Ninja", nous avons fait évoluer le modèle classique en y intégrant :  
 
@@ -35,7 +35,7 @@ Pour cette version "Ninja", nous avons fait évoluer le modèle classique en y i
 
 Le robot doit répondre aux contraintes suivantes :  
 
-- Dimensions : Taille adaptée pour tenir sur un bureau.
+- Dimensions : Taille adaptée (doit rentrer dans une boite témoin).
 - Mobilité : Capacité à avancer, reculer et tourner.
 - Interaction : Détection d'obstacles via un capteur à ultrasons.
 - Autonomie : Alimentation par batterie intégrée au corps du robot.
