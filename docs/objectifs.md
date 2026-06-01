@@ -6,7 +6,7 @@ title: Objectifs du projet
 
 # Introduction
 
-Ce projet consiste en la création d'un robot bipède autonome basé sur l'architecture Otto. Le robot est conçu pour être une plateforme d'apprentissage ouverte, permettant de découvrir la robotique, l'impression 3D et le codage de manière ludique.
+Ce projet consiste en la création d'un robot bipède autonome basé sur le modèle Otto. Le robot est conçu pour être une plateforme d'apprentissage ouverte, permettant de découvrir la robotique, l'impression 3D et le codage de manière ludique.
 
 ## Contexte du Projet
 
