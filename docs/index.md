@@ -22,7 +22,6 @@ Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir tout
 
 Le projet OTTO-NINJA est une plateforme robotique open-source interactive, conçue pour rendre la robotique et la programmation accessibles à tous.
 
-
 But du projet : Créer un robot bipède programmable capable de se déplacer (Remote XY) et d'interagir avec son environnement grâce à des capteurs.  
 Public ciblé : Il est destiné à tous, que ce soit les étudiants, les enseignants ou encore les passionnés de technologie souhaitant découvrir le montage pièce par pièce, l'impression 3D et le codage.  
 Problèmes résolus : Ce projet permet de se lancer facilement en robotique sans avoir besoin de connaissances poussées en ingénierie.
