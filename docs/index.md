@@ -30,7 +30,7 @@ Problèmes résolus : Ce projet permet de se lancer facilement en robotique sans
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+![Poster projet](images/poster1.jpeg)
 
 ## Vidéo
 
