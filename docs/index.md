@@ -12,7 +12,12 @@ Bienvenue dans la documentation de notre projet. Ce site a pour but de fournir t
 [Notre projet sur Onshape](https://cad.onshape.com/documents/a0b037de2bd70cd9ad337920/w/20d09948f0eb44aa270ff044/e/19a32d45ec8b4d5f3adfe4f6){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=a0b037de2bd70cd9ad337920&wvm=v&wvmid=2c159d2f6e13eb68615ac237&eid=19a32d45ec8b4d5f3adfe4f6&elementType=ASSEMBLY" frameborder="0"></iframe>
+<iframe src="https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2&embed=true" 
+        width="100%" 
+        height="500" 
+        frameborder="0" 
+        allowfullscreen>
+</iframe>
 
 {: .warning }
 >Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
