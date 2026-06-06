@@ -6,7 +6,7 @@ title: Conception et prototypage
 
 # Conception et prototypage
 
-La création de l'Otto Ninja s'appuie sur une démarche de prototypage rapide, typique des environnements Maker, visant à valider chaque étape avant la finalisation.
+La création de l'Otto Ninja s'appuie sur une démarche de prototypage rapide, typique des environnements Maker, visant à valider chaque étape avant la finalisation du robot.
 
 ## Conception Mécanique (CAO)
 
@@ -26,6 +26,6 @@ Notre processus a suivi trois grandes étapes de validation :
 
 ## Défis rencontrés
 
-- **Gestion de l'espace** : Le défi principal a été d'intégrer le module Bluetooth et la batterie sans gêner le débattement des jambes.
-- **Réglages du code** : L'ajustement fin des angles des servomoteurs a été nécessaire pour obtenir une marche fluide et naturelle.
-- **Fiabilité des connexions** : Passage des connexions volantes (câbles dupont) vers des soudures sécurisées pour éviter les faux contacts lors des déplacements du robot.
+- **Équilibre mécanique et accessoires** : L’ajout du katana dans le dos et du bandana a modifié la répartition des masses d'origine. Il a fallu ajuster l'assemblage pour que ces éléments esthétiques ne déséquilibrent pas le robot vers l'arrière lors de ses déplacements.
+- **Calibrage des servomoteurs (SG90)** : L’ajustement des angles et la recherche du "point zéro" de chaque servomoteur ont constitué un défi technique important. Un alignement logiciel rigoureux a été nécessaire pour obtenir une marche fluide, synchronisée, et éviter que le robot ne bascule.
+- **Gestion de l’espace interne** : L'intégration de l'ESP32 et d'une batterie autonome dans un espace restreint a demandé une optimisation poussée du câblage pour ne pas gêner le débattement mécanique des servomoteurs des jambes.
