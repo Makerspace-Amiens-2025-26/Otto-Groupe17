@@ -12,11 +12,10 @@ Pour réaliser l'Otto Ninja, nous avons sélectionné des composants et des solu
 
 Le choix des composants repose sur la standardisation et le coût abordable :
 
-- **Cerveau (Contrôleur)** : Utilisation de l'**Arduino Nano** pour son format compact, idéal pour le corps du robot.
+- **Cerveau (Contrôleur)** : Utilisation de l'**ESP32** pour son format compact, idéal pour le corps du robot.
 - **Actionneurs** : Servomoteurs **SG90** pour leur excellent rapport poids/puissance, parfaits pour les mouvements du bipède.
-- **Communication** : Module **HC-05** ou **HC-06 (Bluetooth)**, choisi pour sa compatibilité universelle avec les smartphones Android et sa facilité de mise en œuvre avec RemoteXY.
 - **Perception** : Capteur à ultrasons **HC-SR04** pour la détection d'obstacles, offrant une précision suffisante pour le gabarit du robot.
-- **Alimentation** : Batterie Li-ion/LiPo avec module régulateur pour assurer une tension stable aux moteurs.
+- **Alimentation** : Batterie intégrée avec module régulateur pour assurer une tension stable aux moteurs et à la carte électronique.
 
 ## Solutions Logicielles
 
@@ -28,6 +27,6 @@ Le choix des outils de programmation a été guidé par la volonté de rendre le
 
 ## Justification des choix
 
-- **Modularité** : Le choix d'une structure "Open-Source" permet aux utilisateurs de créer leurs propres extensions (ex: support pour caméra ou capteur infrarouge supplémentaire).
-- **Maintenance** : L'utilisation de composants "Plug & Play" facilite le remplacement de n'importe quel élément en cas de casse ou d'usure.
-- **Accessibilité** : L'intégration de la technologie Bluetooth via RemoteXY permet d'utiliser n'importe quel smartphone comme télécommande, évitant ainsi la construction d'une manette dédiée.
+- **Ergonomie et Pilotage** : L'intégration de la technologie Bluetooth native de l'ESP32 via RemoteXY permet d'utiliser n'importe quel smartphone comme une télécommande réactive et intuitive (grâce au joystick), évitant ainsi la construction complexe d'une manette physique dédiée.
+- **Maintenance** : L'utilisation de composants standards et très répandus (servos SG90, capteur HC-SR04) facilite le remplacement rapide de n'importe quel élément en cas de casse ou d'usure au MakerSpace.
+- **Personnalisation et Modularité** : Le travail effectué sur Onshape prouve la flexibilité du modèle. La structure reste ouverte, permettant aux utilisateurs d'adapter de nouveaux accessoires esthétiques ou techniques sans compromettre l'équilibre mécanique du robot.
