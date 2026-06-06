@@ -25,7 +25,7 @@ Le projet se base sur le modèle open-source OttoDIY, reconnu pour sa fiabilité
 
 Pour cette version "Ninja", nous avons poussé plus loin le modèle classique OttoDIY en retravaillant son apparence et en transformant radicalement son mode de contrôle :
 
-- **Pilotage sur-mesure (RemoteXY)** : Au lieu d'un simple contrôle Bluetooth standard, nous avons développé une interface spécifique sur l'application. Le robot se pilote désormais précisément à l'aide d'un joystick virtuel pour les déplacements et d'un bouton d'action pour déclencher des comportements spécifiques.
+- **Pilotage sur-mesure (RemoteXY)** : Au lieu d'un simple contrôle Bluetooth standard, nous avons développé une interface spécifique sur l'application. Le robot se pilote désormais précisément à l'aide d'un **joystick** virtuel pour les déplacements et d'un **bouton d'action** pour lever les bras.
 - **Design & Accessoires Ninja** : L'esthétique du robot a été entièrement personnalisée en modifiant la structure CAO. Il arbore fièrement un **bandana**, des **inscriptions en japonais** gravées sur sa coque, ainsi qu'un **katana** fixé dans son dos.
 
 # Cahier des Charges
