@@ -19,14 +19,14 @@ Dans le cadre de ce projet réalisé au MakerSpace, nous avons souhaité propose
 - **Accessibilité** : Proposer un robot dont toutes les pièces sont imprimables en 3D et dont les composants électroniques sont standardisés.
 - **Partage** : Documenter l'intégralité du processus de fabrication pour permettre à n'importe qui de reproduire le robot.
 
-# Existant
+# Evolution Ninja
 
 Le projet se base sur le modèle open-source OttoDIY, reconnu pour sa fiabilité et sa simplicité.
 
-Pour cette version "Ninja", nous avons fait évoluer le modèle classique en y intégrant :  
+Pour cette version "Ninja", nous avons poussé plus loin le modèle classique OttoDIY en retravaillant son apparence et en transformant radicalement son mode de contrôle :
 
-- **Interface de pilotage intuitive** : Grâce à l'utilisation de RemoteXY, nous avons remplacé le pilotage autonome basique par une télécommande mobile personnalisable.
-- **Connectivité Bluetooth** : L'ajout d'un module de communication permet une liaison sans fil stable avec un smartphone, transformant le robot en un modèle télécommandé à distance.
+- **Pilotage sur-mesure (RemoteXY)** : Au lieu d'un simple contrôle Bluetooth standard, nous avons développé une interface spécifique sur l'application. Le robot se pilote désormais précisément à l'aide d'un joystick virtuel pour les déplacements et d'un bouton d'action pour déclencher des comportements spécifiques.
+- **Design & Accessoires Ninja** : L'esthétique du robot a été entièrement personnalisée en modifiant la structure CAO. Il arbore fièrement un **bandana**, des **inscriptions en japonais** gravées sur sa coque, ainsi qu'un **katana** fixé dans son dos.
 
 # Cahier des Charges
 
