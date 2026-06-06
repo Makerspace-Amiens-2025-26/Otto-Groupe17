@@ -5,9 +5,9 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur notre documentation
+# Bienvenue sur la documentation du OTTO-NINJA 🥷
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation de notre projet. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire pas à pas OTTO-NINJA.
 
 [Notre projet sur Onshape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -22,9 +22,9 @@ Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir tout
 
 Le projet OTTO-NINJA est une plateforme robotique open-source interactive, conçue pour rendre la robotique et la programmation accessibles à tous.
 
-But du projet : Créer un robot bipède programmable capable de se déplacer (Remote XY) et d'interagir avec son environnement grâce à des capteurs.  
-Public ciblé : Il est destiné à tous, que ce soit les étudiants, les enseignants ou encore les passionnés de technologie souhaitant découvrir le montage pièce par pièce, l'impression 3D et le codage.  
-Problèmes résolus : Ce projet permet de se lancer facilement en robotique sans avoir besoin de connaissances poussées en ingénierie.
+- **But du projet** : Créer un robot bipède programmable capable de se déplacer manuellement (grâce à l'application Remote XY) et d'interagir avec son environnement grâce à des capteurs.  
+- **Public ciblé** : Il est destiné à tous, que ce soit les étudiants, les enseignants ou encore les passionnés de technologie souhaitant découvrir le montage pièce par pièce, l'impression 3D et le codage.  
+- **Problèmes résolus** : Ce projet permet de se lancer facilement en robotique sans avoir besoin de connaissances poussées en ingénierie.
 
 ## Poster
 
