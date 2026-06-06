@@ -18,14 +18,13 @@ Cette section décrit la première étape du processus de fabrication : la prép
 ### Outillage nécessaire
 * **Jeu de tournevis de précision** (cruciforme principalement).
 * **Pince coupante et pince plate** (pour ajuster les câbles et nettoyer les pièces).
-* **Lime fine ou papier de verre** (grain 220 à 400) pour l'ajustement des pièces imprimées.
-* **Cutter ou ébavureur** pour nettoyer les contours.
+* **Cutter ou Ebavureur** pour nettoyer les contours.
 
 ## Procédure de Préparation
 
-1.  **Ébavurage et Nettoyage** Inspectez toutes les pièces imprimées en 3D. Retirez délicatement les supports d'impression et utilisez la lime ou le cutter pour éliminer les imperfections (bavures, fils de plastique). Une attention particulière doit être portée aux **logements des servomoteurs** et aux **fentes d'assemblage**.
-2.  **Ajustement à blanc** Testez l'imbrication des pièces principales (jambes dans les pieds, corps avec la tête) sans forcer. Si le passage est trop serré, limez légèrement la zone de contact jusqu'à obtenir un ajustement précis mais fluide.
-3.  **Vérification des passages de vis et câbles** Assurez-vous que les trous destinés à la visserie et les ouvertures pour le passage des câbles (capteurs, alimentation) sont parfaitement dégagés de tout résidu de plastique.
+1.  **Nettoyage** : Inspectez toutes les pièces imprimées en 3D. Retirez délicatement les supports d'impression et utilisez la lime ou le cutter pour éliminer les imperfections (bavures, fils de plastique). Une attention particulière doit être portée aux **logements des servomoteurs** et aux **fentes d'assemblage**.
+2.  **Ajustement à blanc** : Testez l'imbrication des pièces principales (jambes dans les pieds, corps avec la tête) sans forcer. Si le passage est trop serré, limez légèrement la zone de contact jusqu'à obtenir un ajustement précis mais fluide.
+3.  **Vérification des passages de vis et câbles** : Assurez-vous que les trous destinés à la visserie et les ouvertures pour le passage des câbles (capteurs, alimentation) sont parfaitement dégagés de tout résidu de plastique.
 
 ## Conseils de Sécurité
 
