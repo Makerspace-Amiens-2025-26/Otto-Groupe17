@@ -9,7 +9,7 @@ permalink: /
 
 Bienvenue dans la documentation de notre projet. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire pas à pas OTTO-NINJA.
 
-[Notre projet sur Onshape]([https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2](https://cad.onshape.com/documents/a0b037de2bd70cd9ad337920/w/20d09948f0eb44aa270ff044/e/19a32d45ec8b4d5f3adfe4f6)){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Notre projet sur Onshape]([https://cad.onshape.com/documents/a0b037de2bd70cd9ad337920/w/20d09948f0eb44aa270ff044/e/19a32d45ec8b4d5f3adfe4f6]){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=a0b037de2bd70cd9ad337920&wvm=v&wvmid=2c159d2f6e13eb68615ac237&eid=19a32d45ec8b4d5f3adfe4f6&elementType=ASSEMBLY" frameborder="0"></iframe>
