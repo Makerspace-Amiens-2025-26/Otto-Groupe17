@@ -14,8 +14,11 @@ Bienvenue dans la documentation de notre projet. Ce site a pour but de fournir t
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=a0b037de2bd70cd9ad337920&wm=v&wvmid=2c159d2f6e13eb68615ac237&eid=19a32d45ec8b4d5f3adfe4f6&elementType=ASSEMBLY" frameborder="0"></iframe>
 
+*Nous rencontrons actuellement un problème technique pour mettre à disposition la modélisation 3D interactive directement sur cette page.
+Pour voir notre robot OTTO-NINJA sous tous ses angles, nous vous invitons à cliquer sur le bouton **Notre projet sur Onshape** situé en haut de la page. Vous pourrez ainsi manipuler l'assemblage librement dans votre navigateur.*
+
 {: .warning }
->Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
+Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
 
 
 ## À propos du Projet
