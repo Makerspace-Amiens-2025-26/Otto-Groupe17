@@ -18,7 +18,7 @@ Bienvenue dans la documentation de notre projet. Ce site a pour but de fournir t
 Pour voir notre robot OTTO-NINJA sous tous ses angles, nous vous invitons à cliquer sur le bouton **Notre projet sur Onshape** situé en haut de la page. Vous pourrez ainsi manipuler l'assemblage librement dans votre navigateur.*
 
 {: .warning }
-Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
+<!--- Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle. ---!>
 
 
 ## À propos du Projet
